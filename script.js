@@ -6,7 +6,7 @@ const temperatureDisplay = document.getElementById("temperature");
 const descriptionDisplay = document.getElementById("description");
 const iconDisplay = document.getElementById("icon");
 
-const API_KEY = "e97bf8ac85b51db260b506d9534b6b7e";
+const API_KEY = "6a7bcfec9da9ee97fb2cbaa9c793aca2";
 
 async function getWeather(city) {
   try {
